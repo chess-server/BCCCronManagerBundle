@@ -1,5 +1,5 @@
 {
-    "name": "bcc/cron-manager-bundle",
+    "name": "op/cron-manager-bundle",
     "type": "symfony-bundle",
     "description": "A cron table manager bundle for Symfony2",
     "version": "3.2",
